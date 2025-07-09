@@ -49,9 +49,6 @@ PyTorch
 OpenCV
 
 Installation Steps-
-Clone the repository:
-git clone https://github.com/gayathrym/gpod.git
-cd gpod
 
 Install the required dependencies:
 pip install -r requirements.txt
